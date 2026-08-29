@@ -75,7 +75,96 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## QA/Testing Lead
+
+### Role Summary
+QA/Testing Leads own quality assurance strategy, test planning, and validation of acceptance criteria. They collaborate with developers and product managers to ensure features meet quality standards before release.
+
+### Responsibilities
+- Create and maintain test plans aligned with features
+- Define acceptance criteria validation approach
+- Manage test automation and regression testing
+- Report quality metrics and blockers to PM and development team
+- Participate in design reviews to identify testability concerns
+
+### Goals
+- Catch defects early and reduce production incidents
+- Maintain high test coverage and automation
+- Enable fast, confident releases
+
+### How they interact
+- Works with **Developers** to understand implementation details and collaborate on test design
+- Works with **Product Managers** to clarify acceptance criteria and success metrics
+- Works with **Project Managers** to schedule testing activities and report risks
+
+### Typical Communication
+- Sprint planning and kickoff meetings
+- Test plan reviews with development team
+- Weekly quality metrics and status updates
+- Design review participation
+
+---
+
+## Technical Lead / Architect
+
+### Role Summary
+Technical Leads own architecture decisions, technical strategy, and engineering excellence. They guide the team on design patterns, technology choices, and scalability concerns.
+
+### Responsibilities
+- Lead technical design discussions and decisions
+- Review architecture and code for scalability and maintainability
+- Mentor developers and promote best practices
+- Identify technical risks and propose mitigations
+- Ensure consistency with broader technical strategy
+
+### Goals
+- Maintain system architecture quality and scalability
+- Enable fast, reliable delivery by preventing technical debt
+- Grow engineer capability through mentorship
+
+### How they interact
+- Works with **Developers** to guide design and provide technical mentorship
+- Works with **Project Managers** to flag technical risks and dependencies
+- Participates in **Product Manager** discussions to ensure feasibility and estimate impact of architectural decisions
+
+### Typical Communication
+- Technical design review meetings
+- Architecture decision records (ADRs)
+- Code reviews and technical mentoring sessions
+- Risk escalation to PM and stakeholders
+
+---
+
+## Stakeholder / Sponsor
+
+### Role Summary
+Stakeholders and sponsors are business owners or executives who provide strategic direction, funding, and oversight. They ensure projects align with organizational goals.
+
+### Responsibilities
+- Define business case and success metrics
+- Provide strategic guidance and priority alignment
+- Approve budgets and timelines
+- Escalate blockers and organizational constraints
+- Receive status updates and participate in key decisions
+
+### Goals
+- Ensure project delivers measurable business value
+- Maintain organizational alignment and resource allocation
+- Reduce risk through oversight and timely escalations
+
+### How they interact
+- Receives updates from **Project Manager** on status, risks, and decisions
+- Collaborates with **Product Manager** on prioritization and success metrics
+- Escalation partner for high-level blockers or strategic issues
+
+### Typical Communication
+- Monthly stakeholder updates and business reviews
+- Milestone and phase gate reviews
+- Executive decision meetings
+- Escalation and issue resolution forums
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
-
